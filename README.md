@@ -1,11 +1,8 @@
 # weatherApp
-Weather App 
-
-
 The Weather App is a Java-based application designed to provide real-time weather information for any specified location. Built with a user-friendly JavaFX interface, this app fetches comprehensive weather data including temperature, humidity, wind speed, and weather conditions.
 
 
-Features:
+# Features:
 
 - Real-Time Data Retrieval: Get the latest weather updates for cities worldwide.
 
@@ -23,7 +20,7 @@ Features:
 
 - Continuous Integration: Automated build and testing with GitHub Actions for reliable updates.
 
-Tech Stack:
+# Tech Stack:
 
 - Programming Language: Java
 
